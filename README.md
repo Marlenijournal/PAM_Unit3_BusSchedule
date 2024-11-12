@@ -1,6 +1,3 @@
-# LatCodelab-bus-schedule
+![image](https://github.com/user-attachments/assets/ebb2c4cd-ac52-450f-b71b-621bbf6a2ec0)
 
-![image](https://github.com/user-attachments/assets/a2329143-71e2-430c-9dcd-f89b53508ef8)
-
-
-![image](https://github.com/user-attachments/assets/450f14c4-0bd4-4f72-94cf-1ad70a01cef9)
+![image](https://github.com/user-attachments/assets/89f0f680-8cc6-42b7-9079-66a4ee5eca23)
